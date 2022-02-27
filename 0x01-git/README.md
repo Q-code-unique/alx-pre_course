@@ -1,2 +1,2 @@
-My second coding experience
+My second coding experience.
 ALX School is awesome
